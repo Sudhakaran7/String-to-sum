@@ -1,0 +1,39 @@
+You are given with a string with special characters, words, arithmetic symbols and numbers,
+you have to seperate the numbers and find the total sums of the numbers
+Constraint:the string should contain integers
+
+Input Description:
+String contains with special characters, words, arithmetic symbols and numbers
+
+Output Description:
+The total sum of the numbers in that string
+
+Sample Input:
+the 32 is good at 15*/rt
+
+Smaple Output:
+47
+
+Sample Input:
+2*56/ inside the box 65 tothe worl22
+
+Sample output:
+145
+
+Smaple Input:
+guvi21 world 32 hell67all
+
+Sample Output:
+120
+
+Sample Input:
+input1and output2
+
+Sample Output:
+3
+
+Sample Input:
+bunchof card has52 and peopleof4can play
+
+Sample Output:
+56
